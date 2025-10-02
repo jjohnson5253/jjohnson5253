@@ -35,6 +35,7 @@ I'm a passionate developer and entrepreneur with a track record in building prod
 
 #### **HashLips Art Engine Contributor**
 [![GitHub](https://img.shields.io/badge/HashLips-Art_Engine-181717?style=flat-square&logo=github)](https://github.com/HashLips/hashlips_art_engine)
+[![GitHub stars](https://img.shields.io/github/stars/HashLips/hashlips_art_engine?style=flat-square&logo=github)](https://github.com/HashLips/hashlips_art_engine)
 
 Contributor to the popular tool used by thousands of NFT creators to generate multiple artwork instances from provided layers.
 
