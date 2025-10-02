@@ -10,7 +10,7 @@
 
 ## 👷‍♂️ Engineer, Leader, Open-sourcer
 
-I'm a passionate developer and entrepreneur with a track record of creating successful products that reach hundreds of thousands of users.
+I'm a passionate developer and entrepreneur with a track record in building products from scratch - taking ideas from 0 to 1 and scaling to hundreds of thousands of users.
 
 ### 🚀 Current Ventures
 
