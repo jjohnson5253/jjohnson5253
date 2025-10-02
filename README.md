@@ -3,7 +3,7 @@
 <div align="center">
   
 [![Steam](https://img.shields.io/badge/Steam-225K%2B%20Users-000000?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/app/3188910/Clicker_Cuties__Anime_Idler/)
-[![VS Code Extension](https://img.shields.io/visual-studio-marketplace/i/Worlds.verse?style=for-the-badge&logo=visualstudiocode&label=VS%20Code%20Downloads&color=007ACC)](https://marketplace.visualstudio.com/items?itemName=Worlds.verse)
+[![VS Code Extension](https://img.shields.io/badge/VS%20Code%20Downloads-10.3K-007ACC?style=for-the-badge&logo=visualstudiocode)](https://marketplace.visualstudio.com/items?itemName=Worlds.verse)
 [![GitHub followers](https://img.shields.io/github/followers/jjohnson5253?style=for-the-badge&logo=github)](https://github.com/jjohnson5253)
 
 </div>
@@ -31,10 +31,10 @@ Building **Brick AI** - An AI-assisted LEGO set builder that revolutionizes how 
 - 💡 Anime-style idle clicker that became a viral sensation
 
 #### 💻 **Verse Language VS Code Extension**
-[![VS Code Marketplace](https://img.shields.io/visual-studio-marketplace/i/Worlds.verse?label=installs&color=007ACC&style=flat-square&logo=visualstudiocode)](https://marketplace.visualstudio.com/items?itemName=Worlds.verse)
-[![Rating](https://img.shields.io/visual-studio-marketplace/r/Worlds.verse?color=brightgreen&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=Worlds.verse)
+[![VS Code Marketplace](https://img.shields.io/badge/VS%20Code%20Installs-10.3K-007ACC?style=flat-square&logo=visualstudiocode)](https://marketplace.visualstudio.com/items?itemName=Worlds.verse)
+[![Rating](https://img.shields.io/badge/Rating-4.7%2F5-brightgreen?style=flat-square&logo=visualstudiocode)](https://marketplace.visualstudio.com/items?itemName=Worlds.verse)
 
-- 📦 **10,000+ downloads** on VS Code Marketplace
+- 📦 **10,300+ downloads** on VS Code Marketplace
 - ⭐ **4.7/5 star rating** from the developer community
 - 🎯 Syntax support for Epic Games' Verse programming language
 - 📌 **Pinned Repository**: [WorldsOrg/verse-extension](https://github.com/WorldsOrg/verse-extension)
