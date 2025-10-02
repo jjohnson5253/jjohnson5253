@@ -34,9 +34,7 @@ Building **Brick AI** - An AI-assisted LEGO set builder that revolutionizes how 
 [![Rating](https://img.shields.io/badge/Rating-4.7%2F5-brightgreen?style=flat-square&logo=visualstudiocode)](https://marketplace.visualstudio.com/items?itemName=Worlds.verse)
 
 - 📦 **10,300+ downloads** on VS Code Marketplace
-- ⭐ **4.7/5 star rating** from the developer community
 - 🎯 Syntax support for Epic Games' Verse programming language
-- 📌 **Pinned Repository**: [WorldsOrg/verse-extension](https://github.com/WorldsOrg/verse-extension)
 
 ### 🤝 Open Source Contributions
 
