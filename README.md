@@ -1,4 +1,4 @@
-[frlabs.dev](https:://frlabs.dev)
+[frlabs.dev](https://www.frlabs.dev/)
 
 ### Let's Connect!
 
