@@ -1,4 +1,4 @@
-[frlabs.co](https://www.frlabs.co/)
+[frlabs.co](https://frlabs.co/)
 
 ### Let's Connect!
 
